@@ -87,3 +87,7 @@
 - **You might (not) need a Server Side Rendering Framework**  
   https://adrienharnay.me/you-might-not-need-a-server-side-rendering-framework/  
   Discusses building a home-grown SSR setup using Webpack, rather than reusing something like Next.js.
+  
+- **Scaling React Server-Side Rendering**  
+  http://arkwright.github.io/scaling-react-server-side-rendering.html  
+  A detailed walkthrough and case study of optimizing SSR performance including discussions of load balancing approaches
